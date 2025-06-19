@@ -52,7 +52,7 @@ ul ul ul > li > b {
   border-collapse: collapse;
   width: 80%;
   margin-top: 20px;
-  background-color: white;
+  background-color: rgb(151, 184, 247);
   
 }
 .tabla-estilo, .tabla-estilo th, .tabla-estilo td{
@@ -62,7 +62,7 @@ ul ul ul > li > b {
   box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
 .tabla-estilo th{
-  background-color: #65da9f;
+  background-color: #04a755;
   color: aliceblue;
   border-color: #0a4379;
 }
